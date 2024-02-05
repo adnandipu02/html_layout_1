@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,p,a{
+    color: #ffffff;
+}
+.header{
+    background-color: #56ee42;
+    height: 100px;
+    text-align: center;
+}
+.banner_section{
+    background-color: #31b6eb;
+    height: 200px;
+    text-align: center;
+}
+.about_section{
+    display: flex;
+}
+.about_left{
+    width: 50%;
+    height: 150px;
+    background-color: #3c4deb;
+    text-align: center;
+}
+.about_right{
+    width: 50%;
+    height: 150px;
+    background-color: #3cd1eb;
+    text-align: center;
+}
+.service_section{
+display: flex;
+}
+.service_one{
+width: 33.3%;
+height: 120px;
+background-color: #d6eb1c;
+text-align: center;
+}
+.service_two{
+width: 33.3%;
+height: 120px;
+background-color: #f16aeb;
+text-align: center;
+}
+.service_three{
+width: 33.3%;
+height: 120px;
+background-color: #694de4;
+text-align: center;
+}
+
+.works{
+display: flex;
+}
+.work_one{
+width: 25%;
+height: 120px;
+background-color: #9e9510;
+text-align: center;
+}
+.work_two{
+width: 25%;
+height: 120px;
+background-color: #a00707;
+text-align: center;
+}
+.work_three{
+width: 25%;
+height: 120px;
+background-color: #01aa09;
+text-align: center;
+}
+.work_four{
+width: 25%;
+height: 120px;
+background-color: #9c03bb;
+text-align: center;   
+}
+.footer_section{
+    height: 100px;
+    background-color: #017a83;
+    text-align: center;
+}
+p,a{
+    margin-top: 30px;
+    text-decoration: none;
+    
+}
